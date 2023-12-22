@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Sravanth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔭 I’m currently working in Machine Learning and Web Development Areas.
+🌱 Sound Knowledge in Data Structures and Algorithms
+👋 Languages - C++,Python.
+💬 Ask me about Btech life.
+📫 How to reach me: Contact me at dattisaisravanth@gmail.com
+😄 Pronouns: He/him.
 
 <!---
 Sravanth-1/Sravanth-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
